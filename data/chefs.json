@@ -1,6 +1,6 @@
 [
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "1",
     "name": "Sanjeev Kapoor",
     "specialty": "Indian cuisine",
     "experience": 30,
@@ -11,6 +11,8 @@
     "recipes": [
       {
         "name": "Butter Chicken",
+        "image":"https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
+        "rating":5,
         "ingredients": [
           "boneless chicken",
           "butter",
@@ -18,10 +20,12 @@
           "ginger-garlic paste",
           "tomato puree"
         ],
-        "cooking_method": "1. Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices. 2. Sauté onion in butter, then add tomato puree and spices. 3. Add chicken and cook until tender. 4. Serve with rice or naan."
+        "cooking_method": "Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices.Sauté onion in butter, then add tomato puree and spices.Add chicken and cook until tender.Serve with rice or naan."
       },
       {
         "name": "Palak Paneer",
+        "image":"https://amritsr.com/wp-content/uploads/2021/12/palak-panerer.jpg",
+        "rating":4.5,
         "ingredients": [
           "paneer",
           "spinach",
@@ -29,10 +33,12 @@
           "tomato",
           "spices"
         ],
-        "cooking_method": "1. Sauté onion, tomato, and spices. 2. Add spinach and cook until wilted. 3. Add paneer and cook until heated through. 4. Serve with rice or naan."
+        "cooking_method": "Sauté onion, tomato, and spices.Add spinach and cook until wilted.Add paneer and cook until heated through.Serve with rice or naan."
       },
       {
         "name": "Masala Dosa",
+        "image":"https://vismaifood.com/storage/app/uploads/public/8b4/19e/427/thumb__1200_0_0_0_auto.jpg",
+        "rating":4.2,
         "ingredients": [
           "rice",
           "urad dal",
@@ -40,12 +46,12 @@
           "onion",
           "spices"
         ],
-        "cooking_method": "1. Soak rice and urad dal, then grind into a batter. 2. Ferment batter overnight. 3. Cook potato and onion with spices. 4. Spread batter on hot griddle, add potato filling, and fold dosa. 5. Serve with chutney and sambar."
+        "cooking_method": "Soak rice and urad dal, then grind into a batter.Ferment batter overnight.Cook potato and onion with spices.Spread batter on hot griddle, add potato filling, and fold dosa.Serve with chutney and sambar."
       }
     ]
   },
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "id": "2",
     "name": "Tarla Dalal",
     "specialty": "Indian cuisine",
     "experience": 35,
@@ -56,6 +62,8 @@
     "recipes": [
       {
         "name": "Paneer Tikka",
+        "image":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Neha_Mathur/Achari_Paneer_Tikka_Recipe_Party_Food_400.jpg",
+        "rating":4,
         "ingredients": [
           "paneer",
           "capsicum",
@@ -63,10 +71,12 @@
           "spices",
           "yogurt"
         ],
-        "cooking_method": "1. Marinate paneer and vegetables in a mixture of yogurt, spices, and lemon juice. 2. Skewer and grill until charred. 3. Serve with mint chutney."
+        "cooking_method": "Marinate paneer and vegetables in a mixture of yogurt, spices, and lemon juice.Skewer and grill until charred.Serve with mint chutney."
       },
       {
         "name": "Chana Masala",
+        "image":"https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/16x9/16x9-amritsari-chole.jpg",
+        "rating":5,
         "ingredients": [
           "chickpeas",
           "tomatoes",
@@ -74,10 +84,12 @@
           "ginger-garlic paste",
           "spices"
         ],
-        "cooking_method": "1. Sauté onion and ginger-garlic paste. 2. Add tomatoes and spices. 3. Add chickpeas and cook until heated through.Garnish with fresh coriander leaves. 5. Serve with rice or naan."
+        "cooking_method": "Sauté onion and ginger-garlic paste.Add tomatoes and spices.Add chickpeas and cook until heated through.Garnish with fresh coriander leaves.Serve with rice or naan."
       },
       {
         "name": "Baingan Bharta",
+        "image":"https://www.yummytummyaarthi.com/wp-content/uploads/2014/09/1.-1.jpg",
+        "rating":4.5,
         "ingredients": [
           "eggplant",
           "onion",
@@ -85,12 +97,12 @@
           "ginger-garlic paste",
           "spices"
         ],
-        "cooking_method": "1. Roast eggplant until charred. 2. Peel skin and chop flesh. 3. Sauté onion and ginger-garlic paste. 4. Add tomato and spices. 5. Add eggplant and cook until heated through. 6. Serve with rice or naan."
+        "cooking_method": "Roast eggplant until charred.Peel skin and chop flesh.Sauté onion and ginger-garlic paste.Add tomato and spices.Add eggplant and cook until heated through.Serve with rice or naan."
       }
     ]
   },
   {
-    "id": "f69a695f037cd9484cecaea37ca71011",
+    "id": "3",
     "name": "Vikas Khanna",
     "specialty": "Indian cuisine",
     "experience": 20,
@@ -98,9 +110,12 @@
     "likes": 1200000,
     "bio": "Vikas Khanna is an Indian Michelin-starred chef, restaurateur, and cookbook writer. He is known for his focus on contemporary Indian cuisine.",
     "profile_picture": "https://i.ibb.co/gFq94Xv/Vikas-Khanna-Net-Worth.jpg",
-    "recipes": [
+    "recipes": 
+    [
       {
         "name": "Chicken Tikka Masala",
+        "image":"https://c.ndtvimg.com/2022-07/33meqsb_chicken-tikka_625x300_08_July_22.png",
+        "rating":4.5,
         "ingredients": [
           "boneless chicken",
           "onion",
@@ -108,10 +123,12 @@
           "spices",
           "cream"
         ],
-        "cooking_method": "1. Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices. 2. Skewer and grill until charred. 3. Sauté onion and spices. 4. Add tomato puree and cook until thickened. 5. Add cream and chicken, and cook until heated through. 6. Serve with rice or naan."
+        "cooking_method": "Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices.Skewer and grill until charred.Sauté onion and spices. Add tomato puree and cook until thickened.Add cream and chicken, and cook until heated through.Serve with rice or naan."
       },
       {
         "name": "Dal Makhani",
+        "image":"https://geekrobocook.com/wp-content/uploads/2021/01/Dal-makhani-1200x675.jpg",
+        "rating":3.8,
         "ingredients": [
           "black lentils",
           "kidney beans",
@@ -119,10 +136,12 @@
           "tomato",
           "spices"
         ],
-        "cooking_method": "1. Soak black lentils and kidney beans, then cook until tender. 2. Sauté onion and spices. 3. Add tomato puree and cook until thickened. 4. Add lentils and beans, and cook until heated through. 5. Serve with rice or naan."
+        "cooking_method": "Soak black lentils and kidney beans, then cook until tender.Sauté onion and spices.Add tomato puree and cook until thickened. Add lentils and beans, and cook until heated through.Serve with rice or naan."
       },
       {
         "name": "Pav Bhaji",
+        "image":"https://recipes.timesofindia.com/thumb/52416693.cms?width=1200&height=900",
+        "rating":5,
         "ingredients": [
           "vegetables",
           "butter",
@@ -130,22 +149,24 @@
           "pav buns",
           "lemon"
         ],
-        "cooking_method": "1. Boil and mash vegetables. 2. Sauté spices in butter. 3. Add vegetables and cook until heated through. 4. Serve with toasted pav buns, lemon wedges, and chopped onion."
+        "cooking_method": "Boil and mash vegetables.Sauté spices in butter.Add vegetables and cook until heated through.Serve with toasted pav buns, lemon wedges, and chopped onion."
       }
     ]
   },
   {
-    "id": "f69a695f037cd9484cecaea37ca71012",
-    "name": "Madhur Jaffrey",
+    "id": "4",
+    "name": "Vineet Bhatia",
     "specialty": "Indian cuisine",
-    "experience": 45,
-    "num_recipes": 700,
+    "experience": 25,
+    "num_recipes": 500,
     "likes": 600000,
-    "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is known for her cookbooks and television series on Indian cuisine.",
-    "profile_picture": "https://i.ibb.co/HYcQJBS/pcurry1-1372531c.jpg",
+    "bio": "Vineet Bhatia is an Indian-born chef, restaurateur, author, and media personality. He was the first chef of Indian origin to be awarded a Michelin star",
+    "profile_picture": "https://i.ibb.co/XZrWLB3/1644054307765.jpg",
     "recipes": [
       {
         "name": "Aloo Gobi",
+        "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+        "rating":4.5,
         "ingredients": [
           "potato",
           "cauliflower",
@@ -153,10 +174,12 @@
           "ginger-garlic paste",
           "spices"
         ],
-        "cooking_method": "1. Sauté onion and ginger-garlic paste. 2. Add potato and spices.Add cauliflower and cook until tender. 4. Serve with rice or naan."
+        "cooking_method": "Sauté onion and ginger-garlic paste.Add potato and spices.Add cauliflower and cook until tender.Serve with rice or naan."
       },
       {
         "name": "Paneer Tikka",
+        "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+        "rating":4.3,
         "ingredients": [
           "paneer",
           "onion",
@@ -164,10 +187,12 @@
           "spices",
           "yogurt"
         ],
-        "cooking_method": "1. Marinate paneer, onion, and bell pepper in a mixture of yogurt and spices. 2. Skewer and grill until charred. 3. Serve with mint chutney."
+        "cooking_method": "Marinate paneer, onion, and bell pepper in a mixture of yogurt and spices.Skewer and grill until charred.Serve with mint chutney."
       },
       {
         "name": "Chana Masala",
+        "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+        "rating":5,
         "ingredients": [
           "chickpeas",
           "onion",
@@ -175,12 +200,12 @@
           "spices",
           "lemon"
         ],
-        "cooking_method": "1. Sauté onion and spices. 2. Add tomato and cook until thickened. 3. Add chickpeas and cook until heated through. 4. Serve with rice or naan, and garnish with chopped onion and lemon wedges."
+        "cooking_method": "Sauté onion and spices.Add tomato and cook until thickened. Add chickpeas and cook until heated through. Serve with rice or naan, and garnish with chopped onion and lemon wedges."
       }
     ]
   },
   {
-    "id": "11468ed61aee84de492a8b04158a22f9",
+    "id": "5",
     "name": "Ranveer Brar",
     "specialty": "Indian cuisine",
     "experience": 15,
@@ -191,6 +216,8 @@
     "recipes": [
       {
         "name": "Butter Chicken",
+        "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+        "rating":5,
         "ingredients": [
           "boneless chicken",
           "onion",
@@ -198,10 +225,12 @@
           "spices",
           "cream"
         ],
-        "cooking_method": "1. Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices. 2. Skewer and grill until charred. 3. Sauté onion and spices. 4. Add tomato puree and cook until thickened. 5. Add cream and chicken, and cook until heated through. 6. Serve with rice or naan."
+        "cooking_method": "Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices. Skewer and grill until charred.Sauté onion and spices. Add tomato puree and cook until thickened. Add cream and chicken, and cook until heated through.Serve with rice or naan."
       },
       {
         "name": "Biryani",
+        "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+        "rating":4.5,
         "ingredients": [
           "rice",
           "meat or vegetables",
@@ -209,10 +238,12 @@
           "yogurt",
           "onion"
         ],
-        "cooking_method": "1. Marinate meat or vegetables in a mixture of yogurt, spices, and onion. 2. Sauté onion and spices. 3. Add meat or vegetables and cook until browned. 4. Layer with cooked rice in a pot. 5. Cook until heated through. 6. Serve with raita and papadum."
+        "cooking_method": "Marinate meat or vegetables in a mixture of yogurt, spices, and onion.Sauté onion and spices. Add meat or vegetables and cook until browned. Layer with cooked rice in a pot. 5. Cook until heated through. Serve with raita and papadum."
       },
       {
         "name": "Aloo Paratha",
+        "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+        "rating":4,
         "ingredients": [
           "potato",
           "flour",
@@ -220,12 +251,12 @@
           "butter",
           "yogurt"
         ],
-        "cooking_method": "1. Boil and mash potato. 2. Mix with flour and spices to make dough. 3. Roll out and cook on a griddle with butter. 4. Serve with yogurt and pickle."
+        "cooking_method": "Boil and mash potato.Mix with flour and spices to make dough. Roll out and cook on a griddle with butter.Serve with yogurt and pickle."
       }
     ]
   },
   {
-    "id": "11468ed61aee84de492a8b04058a33f9",
+    "id": "6",
     "name": "Atul Kochhar",
     "specialty": "Indian cuisine",
     "experience": 30,
@@ -236,6 +267,8 @@
     "recipes": [
       {
         "name": "Chicken Tikka Masala",
+         "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+         "rating":4.3,
         "ingredients": [
           "boneless chicken",
           "onion",
@@ -243,10 +276,12 @@
           "spices",
           "cream"
         ],
-        "cooking_method": "1. Marinate chicken in a mixture of yogurt and spices. 2. Skewer and grill until charred. 3. Sauté onion and spices. 4. Add tomato puree and cook until thickened. 5. Add cream and chicken, and cook until heated through. 6. Serve with rice or naan."
+        "cooking_method": "Marinate chicken in a mixture of yogurt and spices. Skewer and grill until charred.Sauté onion and spices. Add tomato puree and cook until thickened.Add cream and chicken, and cook until heated through. Serve with rice or naan."
       },
       {
         "name": "Palak Paneer",
+        "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+        "rating":4.7,
         "ingredients": [
           "paneer",
           "spinach",
@@ -254,10 +289,12 @@
           "spices",
           "cream"
         ],
-        "cooking_method": "1. Sauté onion and spices. 2. Add spinach and cook until wilted. 3. Blend to make a puree. 4. Add paneer and cook until heated through. 5. Add cream and serve with rice or naan."
+        "cooking_method": "Sauté onion and spices.Add spinach and cook until wilted.Blend to make a puree.Add paneer and cook until heated through.Add cream and serve with rice or naan."
       },
       {
         "name": "Samosas",
+        "image":"https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=996&t=st=1683004817~exp=1683005417~hmac=39145c4a32f7eb6b171794b16637af60f3c5878a0c47e4e47b91b21f67a197ae",
+        "rating":4.3,
         "ingredients": [
           "potato",
           "peas",
@@ -265,7 +302,7 @@
           "pastry",
           "oil"
         ],
-        "cooking_method": "1. Boil and mash potato. 2. Sauté peas and spices. 3. Mix with potato. 4. Fill pastry with mixture and seal. 5. Fry until golden brown. 6. Serve with tamarind chutney."
+        "cooking_method": "Boil and mash potato.Sauté peas and spices.Mix with potato.Fill pastry with mixture and seal. Fry until golden brown.Serve with tamarind chutney."
       }
     ]
   }
