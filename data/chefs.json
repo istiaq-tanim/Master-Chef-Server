@@ -1,51 +1,272 @@
 [
-    {
-      "id": 1,
-      "name": "Gordon Ramsay",
-      "experience": 30,
-      "recipes": 500,
-      "likes": 10000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gordon_Ramsay_June_2006.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Ina Garten",
-      "experience": 40,
-      "recipes": 1000,
-      "likes": 8000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ina_Garten_at_the_Miami_Book_Fair_International_2010.JPG"
-    },
-    {
-      "id": 3,
-      "name": "Anthony Bourdain",
-      "experience": 25,
-      "recipes": 200,
-      "likes": 5000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Anthony_Bourdain_2014_%28cropped%29.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Jamie Oliver",
-      "experience": 25,
-      "recipes": 1000,
-      "likes": 9000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jamie_Oliver_July_2014_%28cropped%29.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Nigella Lawson",
-      "experience": 20,
-      "recipes": 500,
-      "likes": 7000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nigella_Lawson_portrait.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Bobby Flay",
-      "experience": 25,
-      "recipes": 800,
-      "likes": 6000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bobby_Flay_at_the_2010_Tribeca_Film_Festival.jpg"
-    }
-  ]
-  
+  {
+    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "name": "Sanjeev Kapoor",
+    "specialty": "Indian cuisine",
+    "experience": 30,
+    "num_recipes": 500,
+    "likes": 1000000,
+    "bio": "Sanjeev Kapoor is an Indian celebrity chef, author, and television personality. He is known for his focus on simple, healthy, and innovative Indian cuisine.",
+    "profile_picture": "https://i.ibb.co/s5r2sFf/channels4-profile.jpg" ,
+    "recipes": [
+      {
+        "name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "butter",
+          "onion",
+          "ginger-garlic paste",
+          "tomato puree"
+        ],
+        "cooking_method": "1. Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices. 2. Sauté onion in butter, then add tomato puree and spices. 3. Add chicken and cook until tender. 4. Serve with rice or naan."
+      },
+      {
+        "name": "Palak Paneer",
+        "ingredients": [
+          "paneer",
+          "spinach",
+          "onion",
+          "tomato",
+          "spices"
+        ],
+        "cooking_method": "1. Sauté onion, tomato, and spices. 2. Add spinach and cook until wilted. 3. Add paneer and cook until heated through. 4. Serve with rice or naan."
+      },
+      {
+        "name": "Masala Dosa",
+        "ingredients": [
+          "rice",
+          "urad dal",
+          "potato",
+          "onion",
+          "spices"
+        ],
+        "cooking_method": "1. Soak rice and urad dal, then grind into a batter. 2. Ferment batter overnight. 3. Cook potato and onion with spices. 4. Spread batter on hot griddle, add potato filling, and fold dosa. 5. Serve with chutney and sambar."
+      }
+    ]
+  },
+  {
+    "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "name": "Tarla Dalal",
+    "specialty": "Indian cuisine",
+    "experience": 35,
+    "num_recipes": 600,
+    "likes": 800000,
+    "bio": "Tarla Dalal was an Indian chef, author, and television personality who focused on vegetarian Indian cuisine. She authored over 100 cookbooks and was known as the 'Queen of Indian Cooking'.",
+    "profile_picture": "https://i.ibb.co/QnhQsFx/unnamed.jpg",
+    "recipes": [
+      {
+        "name": "Paneer Tikka",
+        "ingredients": [
+          "paneer",
+          "capsicum",
+          "onion",
+          "spices",
+          "yogurt"
+        ],
+        "cooking_method": "1. Marinate paneer and vegetables in a mixture of yogurt, spices, and lemon juice. 2. Skewer and grill until charred. 3. Serve with mint chutney."
+      },
+      {
+        "name": "Chana Masala",
+        "ingredients": [
+          "chickpeas",
+          "tomatoes",
+          "onion",
+          "ginger-garlic paste",
+          "spices"
+        ],
+        "cooking_method": "1. Sauté onion and ginger-garlic paste. 2. Add tomatoes and spices. 3. Add chickpeas and cook until heated through.Garnish with fresh coriander leaves. 5. Serve with rice or naan."
+      },
+      {
+        "name": "Baingan Bharta",
+        "ingredients": [
+          "eggplant",
+          "onion",
+          "tomato",
+          "ginger-garlic paste",
+          "spices"
+        ],
+        "cooking_method": "1. Roast eggplant until charred. 2. Peel skin and chop flesh. 3. Sauté onion and ginger-garlic paste. 4. Add tomato and spices. 5. Add eggplant and cook until heated through. 6. Serve with rice or naan."
+      }
+    ]
+  },
+  {
+    "id": "f69a695f037cd9484cecaea37ca71011",
+    "name": "Vikas Khanna",
+    "specialty": "Indian cuisine",
+    "experience": 20,
+    "num_recipes": 400,
+    "likes": 1200000,
+    "bio": "Vikas Khanna is an Indian Michelin-starred chef, restaurateur, and cookbook writer. He is known for his focus on contemporary Indian cuisine.",
+    "profile_picture": "https://i.ibb.co/gFq94Xv/Vikas-Khanna-Net-Worth.jpg",
+    "recipes": [
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "boneless chicken",
+          "onion",
+          "ginger-garlic paste",
+          "spices",
+          "cream"
+        ],
+        "cooking_method": "1. Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices. 2. Skewer and grill until charred. 3. Sauté onion and spices. 4. Add tomato puree and cook until thickened. 5. Add cream and chicken, and cook until heated through. 6. Serve with rice or naan."
+      },
+      {
+        "name": "Dal Makhani",
+        "ingredients": [
+          "black lentils",
+          "kidney beans",
+          "onion",
+          "tomato",
+          "spices"
+        ],
+        "cooking_method": "1. Soak black lentils and kidney beans, then cook until tender. 2. Sauté onion and spices. 3. Add tomato puree and cook until thickened. 4. Add lentils and beans, and cook until heated through. 5. Serve with rice or naan."
+      },
+      {
+        "name": "Pav Bhaji",
+        "ingredients": [
+          "vegetables",
+          "butter",
+          "spices",
+          "pav buns",
+          "lemon"
+        ],
+        "cooking_method": "1. Boil and mash vegetables. 2. Sauté spices in butter. 3. Add vegetables and cook until heated through. 4. Serve with toasted pav buns, lemon wedges, and chopped onion."
+      }
+    ]
+  },
+  {
+    "id": "f69a695f037cd9484cecaea37ca71012",
+    "name": "Madhur Jaffrey",
+    "specialty": "Indian cuisine",
+    "experience": 45,
+    "num_recipes": 700,
+    "likes": 600000,
+    "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is known for her cookbooks and television series on Indian cuisine.",
+    "profile_picture": "https://i.ibb.co/HYcQJBS/pcurry1-1372531c.jpg",
+    "recipes": [
+      {
+        "name": "Aloo Gobi",
+        "ingredients": [
+          "potato",
+          "cauliflower",
+          "onion",
+          "ginger-garlic paste",
+          "spices"
+        ],
+        "cooking_method": "1. Sauté onion and ginger-garlic paste. 2. Add potato and spices.Add cauliflower and cook until tender. 4. Serve with rice or naan."
+      },
+      {
+        "name": "Paneer Tikka",
+        "ingredients": [
+          "paneer",
+          "onion",
+          "bell pepper",
+          "spices",
+          "yogurt"
+        ],
+        "cooking_method": "1. Marinate paneer, onion, and bell pepper in a mixture of yogurt and spices. 2. Skewer and grill until charred. 3. Serve with mint chutney."
+      },
+      {
+        "name": "Chana Masala",
+        "ingredients": [
+          "chickpeas",
+          "onion",
+          "tomato",
+          "spices",
+          "lemon"
+        ],
+        "cooking_method": "1. Sauté onion and spices. 2. Add tomato and cook until thickened. 3. Add chickpeas and cook until heated through. 4. Serve with rice or naan, and garnish with chopped onion and lemon wedges."
+      }
+    ]
+  },
+  {
+    "id": "11468ed61aee84de492a8b04158a22f9",
+    "name": "Ranveer Brar",
+    "specialty": "Indian cuisine",
+    "experience": 15,
+    "num_recipes": 400,
+    "likes": 1500000,
+    "bio": "Ranveer Brar is an Indian celebrity chef, entrepreneur, and television personality. He is known for his cookbooks and television series on Indian cuisine.",
+    "profile_picture": "https://i.ibb.co/MGfvNX7/1652597275542.jpg",
+    "recipes": [
+      {
+        "name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "onion",
+          "ginger-garlic paste",
+          "spices",
+          "cream"
+        ],
+        "cooking_method": "1. Marinate chicken in a mixture of yogurt, ginger-garlic paste, and spices. 2. Skewer and grill until charred. 3. Sauté onion and spices. 4. Add tomato puree and cook until thickened. 5. Add cream and chicken, and cook until heated through. 6. Serve with rice or naan."
+      },
+      {
+        "name": "Biryani",
+        "ingredients": [
+          "rice",
+          "meat or vegetables",
+          "spices",
+          "yogurt",
+          "onion"
+        ],
+        "cooking_method": "1. Marinate meat or vegetables in a mixture of yogurt, spices, and onion. 2. Sauté onion and spices. 3. Add meat or vegetables and cook until browned. 4. Layer with cooked rice in a pot. 5. Cook until heated through. 6. Serve with raita and papadum."
+      },
+      {
+        "name": "Aloo Paratha",
+        "ingredients": [
+          "potato",
+          "flour",
+          "spices",
+          "butter",
+          "yogurt"
+        ],
+        "cooking_method": "1. Boil and mash potato. 2. Mix with flour and spices to make dough. 3. Roll out and cook on a griddle with butter. 4. Serve with yogurt and pickle."
+      }
+    ]
+  },
+  {
+    "id": "11468ed61aee84de492a8b04058a33f9",
+    "name": "Atul Kochhar",
+    "specialty": "Indian cuisine",
+    "experience": 30,
+    "num_recipes": 500,
+    "likes": 800000,
+    "bio": "Atul Kochhar is an Indian-born Michelin-starred chef, restaurateur, and television personality. He is known for his contemporary Indian cuisine and fusion cooking.",
+    "profile_picture": "https://i.ibb.co/09tCmVL/IMG-3494-Edit.jpg",
+    "recipes": [
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "boneless chicken",
+          "onion",
+          "tomato",
+          "spices",
+          "cream"
+        ],
+        "cooking_method": "1. Marinate chicken in a mixture of yogurt and spices. 2. Skewer and grill until charred. 3. Sauté onion and spices. 4. Add tomato puree and cook until thickened. 5. Add cream and chicken, and cook until heated through. 6. Serve with rice or naan."
+      },
+      {
+        "name": "Palak Paneer",
+        "ingredients": [
+          "paneer",
+          "spinach",
+          "onion",
+          "spices",
+          "cream"
+        ],
+        "cooking_method": "1. Sauté onion and spices. 2. Add spinach and cook until wilted. 3. Blend to make a puree. 4. Add paneer and cook until heated through. 5. Add cream and serve with rice or naan."
+      },
+      {
+        "name": "Samosas",
+        "ingredients": [
+          "potato",
+          "peas",
+          "spices",
+          "pastry",
+          "oil"
+        ],
+        "cooking_method": "1. Boil and mash potato. 2. Sauté peas and spices. 3. Mix with potato. 4. Fill pastry with mixture and seal. 5. Fry until golden brown. 6. Serve with tamarind chutney."
+      }
+    ]
+  }
+]
